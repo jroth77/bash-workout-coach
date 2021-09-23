@@ -9,7 +9,7 @@ Maybe someone would like to do PRs for Linux and Windows versions :)
 1. Copy all of the files into a folder on your machine.
 2. Open a terminal window and navigate to the folder where you stashed the files.
 3. At your terminal prompt:> bash dailies.sh
-4. Follow along (make sure your speaker volume is up) as the host and coash tell you what to do.
+4. Follow along (make sure your speaker volume is up) as the host and coach tell you what to do.
 
 ## To Modify an Exercise
 1. Find the file, such as **kettlebell-row.sh**, for the exercise you'd like to alter, and open in a text editor
