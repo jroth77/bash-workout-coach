@@ -1,4 +1,4 @@
-# bash-workout-coach
+# bash-workout-coaSH
 This is a shell script-based workout coach that verbally leads you through exercises and tracks your reps. This version uses body weight as well as kettlebell exercises, but you can customize this to whatever you need. I made this to keep me on track and remind me to exercise as I'm a home/remote worker, and it's easy to get caught up in work and forget to move, even if you're at a standing desk. I have mine set for a 3 minute recovery interval between exercises (you can make this whatever you need) and start it first thing when I get into the office. It runs while I'm triaging email and work tasks and such and leads me through a worthy workout routine in about an hour. At workout's end, I'm done with triage and a few simple tasks, feeling great from an excellent workout, and ready to dig into the first substantial project for they day.
 
 **Uses the built-in MacOS voices to lead your workouts** 
